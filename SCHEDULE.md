@@ -9,7 +9,7 @@
   ### Week 1: Introduction to Game Studies: What is "Play"?
   readings:
   - [Miguel Sicart, "Play Is," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_1.pdf)
-  - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944)](readings/huizinga_homoludens_1.pdf)
+  - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944) pgs 1-15](readings/huizinga_homoludens_1.pdf)
 
 Week 3-4 (09.05.23-09.14.23): The Historical, Cultural, and Social Significance of Games
 - Early forms of play and games
