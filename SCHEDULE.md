@@ -1,10 +1,15 @@
 *This schedule is subject to change; any alterations will appear here and be announced in class.*
 
-Week 1-2 (08.22.23-08.31.23): Introduction to Game Studies and Its Scope
+## Week 1-2 (08.22.23-08.31.23): Introduction to Game Studies and Its Scope
 - Definition of game studies as an interdisciplinary field
 - Historical context and evolution of games
 - Understanding the importance of games in modern society
 - Overview of key concepts: ludology, narratology, gameplay, mechanics, aesthetics
+
+  ### Week 1: Introduction to Game Studies: What is "Play"?
+  readings:
+  - [Miguel Sicart, "Play Is," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_1.pdf)
+  - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944)](readings/huizinga_homoludens_1.pdf)
 
 Week 3-4 (09.05.23-09.14.23): The Historical, Cultural, and Social Significance of Games
 - Early forms of play and games
