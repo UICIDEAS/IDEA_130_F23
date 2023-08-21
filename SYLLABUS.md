@@ -13,6 +13,7 @@ This course provides an in-depth introduction to the interdisciplinary field of 
 
 - A reliable laptop you can bring to class!
 - Homo Ludens: A Study of the Play Element in Culture, Johan Huizinga (will be provided as a .pdf)
+- Play Matters, Miguel Sicart (2014) (will be provided as a .pdf)
 - Selection of scholarly articles and case studies related to Game Studies, Game Theory, and Game Development disciplines
 
 ## Coursework: (100 points total)
