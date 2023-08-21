@@ -1,6 +1,7 @@
 *This schedule is subject to change; any alterations will appear here and be announced in class.*
 
 ## Week 1-2 (08.22.23-08.31.23): Introduction to Game Studies and Its Scope
+
 - Definition of game studies as an interdisciplinary field
 - Historical context and evolution of games
 - Understanding the importance of games in modern society
