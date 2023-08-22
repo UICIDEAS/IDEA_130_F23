@@ -1,4 +1,4 @@
-# IDEA 410: Interdisciplinary Capstone for IDEA Majors
+# IDEA 130: Intro to Game Studies
 
 
 ### Overview for Fall 2023
