@@ -11,6 +11,7 @@
   readings:
   - [Miguel Sicart, "Play Is," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_1.pdf)
   - [Johann Huizinga, "Nature and Significance of Play as a Cultural Phenomenon," in Homo Ludens (Routledge, 1944) pgs 1-15](readings/huizinga_homoludens_1.pdf)
+  
   lecture:
   - [Week 1: 08.24.23](readings/130_Week_01.pdf)
 
@@ -18,6 +19,7 @@
   readings:
   - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
+  
   lecture:
   - [Week 2: 08.29.23](readings/130_Week_02.pdf)
 
