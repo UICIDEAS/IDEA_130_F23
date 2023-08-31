@@ -30,6 +30,12 @@
 - Impact of games on social interactions and relationships
 - Online communities and multiplayer dynamics
 
+readings:
+- [Johann Huizinga, "Play and Contest as Civilizing Function," in Homo Ludens](Routledge, 1944)](readings/huizinga_homoludens_3.pdf)
+
+assignment:
+- [Game Analysis Presentation](ASSIGNMENTS/game_analysis_presentation.md)
+
 ## Week 5-6 (09.19.23-09.28.23): Game Theory and Development Principles
 - Exploring fundamental game design principles
 - Player experience and psychology
