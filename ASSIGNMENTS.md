@@ -28,5 +28,5 @@ Play is personal. (17)
 Tips:
 
 - Consider how language is used around the game (Huizinga, Chapter 2). How do people refer to the game (does it have particular words associated with it? Are there memes associated with it (consider "Among Us" and the word "sus", for example). Does the game have made up words or concepts? Does it have a specialized lingo associated with it?
-
 - Consider how this game may have impacted history and/or culture (Huizinga, Chapter 3). Is there some larger concept that this game mimics/represents/parodies (example: Katamari Damacy is a commentary on capitalism).
+- Examples of Game Analysis: [Game Studies: the international journal of computer game research](https://gamestudies.org/2302)
