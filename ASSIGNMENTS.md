@@ -8,9 +8,7 @@ Format:
 The presentation should include:
 
 - a short introduction: how did you find this game? Why does it appeal to you? What kind of game is this?
-
 - a short explanation of how the game is played
-
 - The analysis:
 
 Choose three of the following of Sicart's game characteristics, and explain how your game fulfills (or thwarts!) them. 
