@@ -17,7 +17,7 @@
 
   ### Week 2: Games as Artifacts: Historical Games and their relationships to Scientific Disciplines, Cultures, and Social Structures
   readings:
-  - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens(Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
+  - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
   
   lecture:
@@ -32,6 +32,7 @@
 
 readings:
 - [Johann Huizinga, "Play and Contest as Civilizing Function," in Homo Ludens(Routledge, 1944)](readings/huizinga_homoludens_3.pdf)
+- [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)
 
 assignment:
 - [Game Analysis Presentation](ASSIGNMENTS.md)
