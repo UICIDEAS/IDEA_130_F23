@@ -30,12 +30,16 @@
 - Impact of games on social interactions and relationships
 - Online communities and multiplayer dynamics
 
-readings:
-- [Johann Huizinga, "Play and Contest as Civilizing Function," in Homo Ludens(Routledge, 1944)](readings/huizinga_homoludens_3.pdf)
-- [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)
+  ### Week 3: Why Play Games? What Do Games Do? 
+  readings:
+  - [Johann Huizinga, "Play and Contest as Civilizing Function," in Homo Ludens (Routledge, 1944)](readings/huizinga_homoludens_3.pdf)
+  - [Miguel Sicart, "Playfulness," in Play Matters (MIT Press, 2014)](readings/sicart_playmatters_2.pdf)
 
-assignment:
-- [Game Analysis Presentation](ASSIGNMENTS.md)
+  - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
+  - [Tanya Depass interview](https://shorturl.at/tvEY3)
+
+  assignment (due Week 4):
+  - [Game Analysis Presentation](ASSIGNMENTS.md)
 
 ## Week 5-6 (09.19.23-09.28.23): Game Theory and Development Principles
 - Exploring fundamental game design principles
