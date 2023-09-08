@@ -41,6 +41,9 @@ assignment (due Week 4):
   - ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
   - [Tanya Depass interview](https://shorturl.at/tvEY3)
 
+  lecture:
+  - [Week 3: 09.05 & 09.07](readings/130_Week_03.pdf)
+
   ### Week 4: Representation in Games and Why It Matters
   readings: TBA
 
