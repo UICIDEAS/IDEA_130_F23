@@ -13,13 +13,13 @@ The presentation should include:
 
 Choose three of the following of Sicart's game characteristics, and explain how your game fulfills (or thwarts!) them. 
 
-- Play is contextual. (6)
-- Play is carnivalesque. (11)
-- Play is appropriative. (11)
-- Play is disruptive. (14)
-- Play is autotelic. (16)
-- Play is creative. (17)
-- Play is personal. (17)
+1. Play is contextual. (6)
+2. Play is carnivalesque. (11)
+3. Play is appropriative. (11)
+4. Play is disruptive. (14)
+5. Play is autotelic. (16)
+6. Play is creative. (17)
+7. Play is personal. (17)
 
 - Conclusion: is there anything you'd like to change about the game? Are there house rules you use, or rules/aspects of this game that you apply to other games?
 
