@@ -22,10 +22,11 @@ Play a few of the text adventure games from the list provided below. Think about
 * A Dark Room: http://adarkroom.doublespeakgames.com/
 
 Exercise goals:
-•	Construct branching narratives/non-linear narratives for interactive play using simple coding techniques (involving Twine, adapting HTML, CSS, etc.)
-•	Practice creating different modes of interactivity through text and moving images
-•	Think about different narrative structures (picaresque, gauntlet, quest, branch-and-bottleneck, etc.) 
-•	Understand distinctions between “performance” and “performative”; critiquing types and effectiveness of interactivity
+
+-	Construct branching narratives/non-linear narratives for interactive play using simple coding techniques (involving Twine, adapting HTML, CSS, etc.)
+-	Practice creating different modes of interactivity through text and moving images
+-	Think about different narrative structures (picaresque, gauntlet, quest, branch-and-bottleneck, etc.) 
+-	Understand distinctions between “performance” and “performative”; critiquing types and effectiveness of interactivity
 
 Instructions:
 Using Twine, write a branching story with one or more of the following features:
