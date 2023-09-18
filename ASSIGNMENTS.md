@@ -39,8 +39,8 @@ Using Twine, write a branching story with one or more of the following features:
 Possibly avoid: life simulator, choose your own adventure tropes (walking around in a fictional world, fighting, dying etc.).
 
 Requirements:
-•	Use the Twine non-linear story platform to create a game.
-•	You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
+- Use the Twine non-linear story platform to create a game.
+- You can use the downloaded or online version. If you use the online version, you will need to save your work by choosing the “Publish to File” option in the settings tab. This will download an .html file that can be opened on any computer.
 
 ## Game Analysis Presentation (Due: Week 4, 9.12.23-9.14.23)
 
