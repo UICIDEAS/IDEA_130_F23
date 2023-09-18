@@ -15,7 +15,7 @@
   lecture:
   - [Week 1: 08.24.23](readings/130_Week_01.pdf)
 
-  ### Week 2: Games as Artifacts: Historical Games and their relationships to Scientific Disciplines, Cultures, and Social Structures
+  ### Week 2: Games as Artifacts: Historical Games and Their Relationships to Scientific Disciplines, Cultures, and Social Structures
   readings:
   - [Johann Huizinga, "Play Concept as Expressed in Language," in Homo Ludens (Routledge, 1944) pgs 28-45](readings/huizinga_homoludens_2.pdf)
   - [Claude Shannon, "A Chess-Playing Machine," Scientific American, 1950](readings/shannon_chess1950.pdf)
@@ -45,14 +45,27 @@ assignment (due Week 4):
   - [Week 3: 09.05 & 09.07](readings/130_Week_03.pdf)
 
   ### Week 4: Representation in Games and Why It Matters
-  readings: TBA
+  Presentations due
+  [The Quiet Year TTRPG](readings/The_Quiet_Year_PDF.pdf)
 
 ## Week 5-6 (09.19.23-09.28.23): Game Theory and Development Principles
 - Exploring fundamental game design principles
-- Player experience and psychology
+- Player experience and inclusivity/access
 - Balance, challenge, and reward systems
 - Game mechanics and dynamics
 - Playtesting and iterative design
+
+  ### Week 5: Non-linear narrative games & interactivity
+  readings:
+  - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
+  - [Anthropy, Rise of the Videogame Zinesters, Chaps 1, 2 (pp. 1-42)](readings/antropy_1_2.pdf)
+ 
+  assignment (due at the end of Week 6, 09.28.23):
+  - [Twine_Game](ASSIGNMENTS.md)
+ 
+  ### Week 6: More about interactivity and game mechanics
+  reading:
+	- Anna Anthropy, Rise of the Videogame Zinesters, Chaps 3, 4 (pp. 43-91)
 
 ## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
 - Understanding gamification and its applications
