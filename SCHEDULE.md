@@ -62,6 +62,7 @@ assignment (due Week 4):
  
   assignment (due at the end of Week 6, 09.28.23):
   - [Twine_Game](ASSIGNMENTS.md)
+  - [Template for Twine Macros](readings/Macro_Madness.html)
  
   lecture:
   - [Week 5: 09.19 & 09.21](readings/130_Week_05.pdf)
