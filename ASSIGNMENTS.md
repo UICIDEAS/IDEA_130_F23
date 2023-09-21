@@ -21,7 +21,7 @@ Play a few of the text adventure games from the list provided below. Think about
 * Kitty Horrorshow, daymare #1: "ritual": http://philome.la/kittyhorrorshow/daymare-1-ritual/play
 * A Dark Room: http://adarkroom.doublespeakgames.com/
 
-A template you can use for Twine Macros and Styling: [Macro_Madness.html](/readings/Macro_Madness.html)
+A template you can use for Twine Macros and Styling: [Macro_Madness.html](readings/Macro_Madness.html)
 
 Exercise goals:
 
