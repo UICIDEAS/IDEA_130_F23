@@ -71,8 +71,13 @@ assignment (due Week 4):
   reading:
   - [Edwards, Benj (April 4, 2017). "The Forgotten World of Teletype Computer Games". PC Magazine.](https://www.pcmag.com/news/the-forgotten-world-of-teletype-computer-games)
   - [Jerz, Dennis (2007). "Somewhere Nearby is Colossal Cave: Examining Will Crowther's Original "Adventure" in Code and in Kentucky". Digital Humanities Quarterly. 1 (2).](http://www.digitalhumanities.org/dhq/vol/001/2/000009/000009.html)
-
   - Anna Anthropy, Rise of the Videogame Zinesters, Chaps 3, 4 (pp. 43-91)
+
+  video:
+  - Get Lamp: The Text Adventure Documentary: https://www.youtube.com/watch?v=LRhbcDzbGSU
+    note: The beginning is a short presentation by the filmmaker. Documentary starts at 6:00, ends at 1:38.
+ 
+  ### ASSIGNMENT #2 - TWINE GAME - DUE 09.28.23!
 
 ## Week 7-8 (10.03.23-10.12.23: Gamification and Applied Game Development
 - Understanding gamification and its applications
