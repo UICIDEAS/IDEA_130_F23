@@ -62,6 +62,7 @@ assignment (due Week 4):
  
   assignment (due at the end of Week 6, 09.28.23):
   - [Twine_Game](ASSIGNMENTS.md)
+  - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
  
   lecture:
