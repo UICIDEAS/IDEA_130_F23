@@ -85,6 +85,15 @@ assignment (due Week 4):
 - Designing games for non-entertainment purposes
 - Ethics and considerations in applied game design
 
+  ### Week 7: Playtesting and Applied Game Design
+  resources:
+  - https://boardgamedesignlab.com/playtest-like-a-boss/
+  - https://boardgamedesignlab.com/mechanics/
+  - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
+ 
+  reading:
+  - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
+
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
