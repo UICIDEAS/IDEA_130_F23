@@ -1,5 +1,7 @@
 ## Twine Game (Due: Week 6, 9.28.23)
 
+### Upload .html files for Twine games to: https://drive.google.com/drive/folders/1Zhpxje2ak6GCkypWTzuCQUmPe95HRZR-?usp=sharing
+
 Create a non-linear game using Twine (https://twinery.org/)
 
 Play a few of the text adventure games from the list provided below. Think about how these kinds of games relate to the Anna Anthropy reading.
