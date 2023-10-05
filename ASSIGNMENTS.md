@@ -1,6 +1,6 @@
 ## Twine Game (Due: Week 6, 9.28.23)
 
-### Upload .html files for Twine games to: https://drive.google.com/drive/folders/1Zhpxje2ak6GCkypWTzuCQUmPe95HRZR-?usp=sharing
+#### Upload .html files for Twine games to: https://drive.google.com/drive/folders/1Zhpxje2ak6GCkypWTzuCQUmPe95HRZR-?usp=sharing
 
 Create a non-linear game using Twine (https://twinery.org/)
 
