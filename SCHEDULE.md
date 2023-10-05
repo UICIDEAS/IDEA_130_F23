@@ -60,7 +60,7 @@ assignment (due Week 4):
   - [Merritt Kopa, Videogames for People, Introduction (pp. 5-19)](readings/merritt-kopa-videogames-for-humans-twine-authors-in-conversation.pdf)
   - [Anthropy, Rise of the Videogame Zinesters, Chaps 1, 2 (pp. 1-42)](readings/antropy_1_2.pdf)
  
-  assignment (due at the end of Week 6, 09.28.23):
+  Assignment (due at the end of Week 6, 09.28.23):
   - [Twine_Game](ASSIGNMENTS.md)
   - Harlowe Manual: https://twine2.neocities.org/
   - [Template for Twine Macros](readings/Macro_Madness.html)
@@ -85,15 +85,21 @@ assignment (due Week 4):
 - Gamification in education, healthcare, and business
 - Designing games for non-entertainment purposes
 - Ethics and considerations in applied game design
+- Introduction to Game Theory principles
 
   ### Week 7: Playtesting and Applied Game Design
   resources:
   - https://boardgamedesignlab.com/playtest-like-a-boss/
   - https://boardgamedesignlab.com/mechanics/
+
+  ### Week 8: Serious Games
+  - discussion of ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
+  watch:
   - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
- 
   reading:
   - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
+
+  Assignment: The "One Button Game" (due: 10.31.23)
 
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
