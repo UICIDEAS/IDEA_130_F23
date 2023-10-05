@@ -94,8 +94,10 @@ assignment (due Week 4):
 
   ### Week 8: Serious Games
   - discussion of ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
+  
   watch:
   - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
+  
   reading:
   - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
 
