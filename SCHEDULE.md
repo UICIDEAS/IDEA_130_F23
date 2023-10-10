@@ -97,6 +97,9 @@ assignment (due Week 4):
   
   watch:
   - Serious Games I-IV, Harun Farocki: https://vimeo.com/370494311
+ 
+  lecture:
+  - [Week 8: 10.10.23](readings/130_Week_08.pdf)
   
   reading:
   - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
