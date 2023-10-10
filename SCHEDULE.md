@@ -91,6 +91,9 @@ assignment (due Week 4):
   resources:
   - https://boardgamedesignlab.com/playtest-like-a-boss/
   - https://boardgamedesignlab.com/mechanics/
+ 
+  lecture:
+  - [Week 7: 10.05.23](readings/130_Week_07.pdf)
 
   ### Week 8: Serious Games
   - discussion of ["The Dungeons & Dragons Players of Death Row," The New York Times Magazine, Keri Blakinger, Aug. 31, 2023](readings/nyt_dnd_deathrow.pdf)
