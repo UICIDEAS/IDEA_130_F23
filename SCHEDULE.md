@@ -107,13 +107,24 @@ assignment (due Week 4):
   reading:
   - [Ken Binmore, Game Theory: A Very Short Introduction, Oxford University Press, 2007](readings/binmore-game-theory.pdf)
 
-  Assignment: The "One Button Game" (due: 10.31.23)
 
 ## Week 9-10 (10.17.23-10.26.23): Game Creation Methods
 - Game development processes and stages
 - Introduction to game engines and tools
 - Conceptualization and prototyping
 - Art and sound design in games
+
+  ### Week 9: Meaningful Interactivity
+
+  lecture:
+  - [Week 9: 10.17.23](readings/130_Week_09.pdf)
+ 
+  readings:
+  - ["One Button Game," in Code as Creative Medium, Golan Levin and Tega Brain](readings/one_button.pdf)
+  - ["Seven Ways of Misunderstanding Interactive Art," Erkkhi Huhtamo, 1995](readings/huhtamo_interactive_art.pdf)
+  - ["Meaningful Play" and "Interactivity" in Rules of Play: Game Design Fundamentals, Katie Salen and Eric Zimmerman](readings/rules-of-play.pdf) 
+  
+  Assignment: The "One Button Game" (due: 10.31.23)
 
 ## Week 11-12 (10.31.23-11.09.23): Game Cultures and Subcultures
 - Analysis of different game cultures (eSports, indie games, tabletop, etc.)
