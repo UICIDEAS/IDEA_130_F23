@@ -1,3 +1,52 @@
+## ONE BUTTON GAME ASSIGNMENT --OR-- TWO COLOR GAME ASSIGNMENT (Due: 11.02.23)
+
+Creating a game with restrictions is not only a design challenge meant to think about what constitutes meaningful interactivity (see: Saten & Zimmerman), but also forces a game developer to consider disability and gaming. 
+
+- Because of mobility challenges, some gamers find it difficult to master the crazy button-mashing of some AAA games (that is, the big game companies that make some of the most popular games). A one-button game would be far more accessible to this kind of gamer.
+
+- Consider the challenges of the blind or visually impaired: a game that could be read using text-to-speech software can be deeply involving (for example, some of the gamers in the documentary Get Lamp professed a deep love for early text adventures). 
+
+- Visually impaired but still-sighted gamers might be able to see games that use high contrast in light and dark. Pixel games that use black and white are more accessible than games that employ more "realistic" graphics.
+
+(For more on designing for gamers with disabilities: https://playabilityinitiative.com/).
+
+Your assignment is to construct either a ONE BUTTON GAME, or a TWO COLOR GAME. 
+
+### ONE BUTTON GAME: 
+
+Consider how to integrate the action of clicking or depressing a button (a mouse or trackpad touch, a key, spacebar, etc.) might be narratively or strategically embedded in game play. Consider the examples in the "One Button Game" chapter handout, or the examples below.
+
+### TWO COLOR GAME: 
+
+Consider how to limit your palette to two contrasting colors while integrating the restricted palette with a narrative/game mechanic. 
+
+1. Use one of the following tools:
+
+Bitsy (https://bitsy.org/)
+Pulp (https://play.date/pulp/)
+Pico-8 (https://www.lexaloffle.com/pico-8.php)
+Twine (https://twinery.org/)
+
+2. Keep it simple!
+
+A game with a very simple premise, no matter how short, could be very gratifying. Don't feel the need to create a sprawling narrative with multiple characters and scenes! 
+
+Tips:
+
+For a one-button game: consider the smallest gesture—a wave, tapping your foot, sneezing, smiling, breathing—and how these might constitute a mini-game.
+
+For a two-color game: consider circumstances where you would be limited to light and dark vision (perhaps in the dark, underwater). Consider the use of patterns, silhouettes, and well-timed movement.
+
+NOTE:
+
+If you have an idea for a "one button game" that uses a different game-making software, or is essentially analog (NOT a video game), I'd like to hear it! Let me know what you're thinking (tfunk4@uic.edu)!
+
+Examples:
+
+https://pippinbarr.com/lets-play-ancient-greek-punishment/
+https://itch.io/jam/one-button-to-rule-all-jam/entries
+https://itch.io/jam/2-colors-game-jam/entries
+
 ## Twine Game (Due: Week 6, 9.28.23)
 
 #### Upload .html files for Twine games to: https://drive.google.com/drive/folders/1Zhpxje2ak6GCkypWTzuCQUmPe95HRZR-?usp=sharing
