@@ -22,10 +22,10 @@ Consider how to limit your palette to two contrasting colors while integrating t
 
 1. Use one of the following tools:
 
-Bitsy (https://bitsy.org/)
-Pulp (https://play.date/pulp/)
-Pico-8 (https://www.lexaloffle.com/pico-8.php)
-Twine (https://twinery.org/)
+- Bitsy (https://bitsy.org/)
+- Pulp (https://play.date/pulp/)
+- Pico-8 (https://www.lexaloffle.com/pico-8.php)
+- Twine (https://twinery.org/)
 
 2. Keep it simple!
 
@@ -43,9 +43,9 @@ If you have an idea for a "one button game" that uses a different game-making so
 
 Examples:
 
-https://pippinbarr.com/lets-play-ancient-greek-punishment/
-https://itch.io/jam/one-button-to-rule-all-jam/entries
-https://itch.io/jam/2-colors-game-jam/entries
+- https://pippinbarr.com/lets-play-ancient-greek-punishment/
+- https://itch.io/jam/one-button-to-rule-all-jam/entries
+- https://itch.io/jam/2-colors-game-jam/entries
 
 ## Twine Game (Due: Week 6, 9.28.23)
 
