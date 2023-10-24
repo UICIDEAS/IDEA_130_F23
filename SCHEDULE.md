@@ -126,6 +126,22 @@ assignment (due Week 4):
   
   Assignment: The "One Button Game" (due: 10.31.23)
 
+  ### Week 10: Choosing the Right Tools
+
+    lecture:
+  - [Week 10: 10.24.23](readings/130_Week_10.pdf)
+
+  game tools:
+  - Pico8 https://www.lexaloffle.com/pico-8.php
+  - Bitsy https://make.bitsy.org/
+  - Pulp https://play.date/pulp/
+  - Twine https://twinery.org/
+
+  resources:
+  - https://nerdyteachers.com/PICO-8/Guide/
+  - https://www.shimmerwitch.space/bitsyTutorial.html
+  - https://bitsy.fandom.com/wiki/Tutorials
+
 ## Week 11-12 (10.31.23-11.09.23): Game Cultures and Subcultures
 - Analysis of different game cultures (eSports, indie games, tabletop, etc.)
 - Role of gaming conventions and events
