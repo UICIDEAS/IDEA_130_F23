@@ -142,11 +142,18 @@ assignment (due Week 4):
   - https://www.shimmerwitch.space/bitsyTutorial.html
   - https://bitsy.fandom.com/wiki/Tutorials
 
-## Week 11-12 (10.31.23-11.09.23): Game Cultures and Subcultures
-- Analysis of different game cultures (eSports, indie games, tabletop, etc.)
-- Role of gaming conventions and events
-- Streaming, content creation, and influencer culture
-- Gaming as a form of self-expression and identity
+## Week 11-12 (10.31.23-11.09.23): Game Theory and Game Dev
+
+  - simple intro to some Game Theory concepts, its use and limitations
+  - linking Game Theory and Game Studies as disciplines
+  - Thinking through Game Theory general concepts and usage in Game Dev
+    
+### Week 11: Intro to Game Theory - Game Theory for Games Developers (and how it relates to Game Studies)
+  
+  lecture:
+- [Week 11: 10.31.23](readings/130_Week_11.pdf)
+
+  Assignment due: November 2nd, by class time (9:00a)!
 
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
