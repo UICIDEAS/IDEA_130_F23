@@ -155,6 +155,13 @@ assignment (due Week 4):
 
   Assignment due: November 2nd, by class time (9:00a)!
 
+### Week 12: Going Solo
+
+  Assignment: SOLO TTRPG
+  - Access the [SOLO TTRPG FOLDER](readings/solottrpg)
+  - Play two or more, saving your journals.
+  - We will discuss these games together.
+
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
 - Impact of artificial intelligence (AI) on game design
