@@ -1,3 +1,23 @@
+## FINAL GAME PROJECT (Due: Thursday, November 30th)
+
+You will make a game using one of the methods or tools covered in class, or a pre-approved game making software of your choice. This game can be about any subject, and may build upon games previously completed in class (expanded versions of previous assignments).
+
+Your final game project should reflect subjects covered in previous weeks by addressing one (or more) of the following:
+
+- Sicart's "game characteristics"
+- Makes use of restrictions to complicate/vary gameplay (i.e., the one-button game, two color game)
+- "Serious Games" (games that educate, or serve a purpose other than solely entertainment)
+- Solo gaming
+- Collaborative gaming (i.e., TTRPGs with collaborative storytelling, map-making, etc.)
+
+Steps:
+
+1. Write a short proposal that explains briefly your goals for your game, and which of the above it addresses. We will discuss these in class (November 14). (Note: you can start working on the game itself before then, but a short description of the game with notes is "best practices" and will help in the planning process). Include a justification for the method/tools you will use to construct the game.
+
+2. Keep a development journal for your game. It doesn't need to be long or in-depth, but should log the time you spent working on it, and your wins or frustrations during the process. This is also "best practices" and provides helpful tips for yourself when engaging with the project both in the present and future.
+
+3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to playlets on the final week of class.
+
 ## ONE BUTTON GAME ASSIGNMENT --OR-- TWO COLOR GAME ASSIGNMENT (Due: 11.02.23)
 
 Creating a game with restrictions is not only a design challenge meant to think about what constitutes meaningful interactivity (see: Saten & Zimmerman), but also forces a game developer to consider disability and gaming. 
