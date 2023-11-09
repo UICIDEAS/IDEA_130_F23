@@ -162,6 +162,10 @@ assignment (due Week 4):
   - Play two or more, saving your journals.
   - We will discuss these games together.
 
+#### Final Game Project (due: November 30th)
+
+  - See "Assignments" for instructions.
+
 ## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
 - Exploration of virtual reality (VR) and augmented reality (AR) in games
 - Impact of artificial intelligence (AI) on game design
