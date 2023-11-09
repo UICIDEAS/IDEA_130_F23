@@ -10,6 +10,12 @@ Your final game project should reflect subjects covered in previous weeks by add
 - Solo gaming
 - Collaborative gaming (i.e., TTRPGs with collaborative storytelling, map-making, etc.)
 
+Resources:
+
+For Bitsy
+- https://www.shimmerwitch.space/bitsyTutorial.html
+- https://bitsy.fandom.com/wiki/Bitsy_Wiki
+
 Steps:
 
 1. Write a short proposal that explains briefly your goals for your game, and which of the above it addresses. We will discuss these in class (November 14). (Note: you can start working on the game itself before then, but a short description of the game with notes is "best practices" and will help in the planning process). Include a justification for the method/tools you will use to construct the game.
