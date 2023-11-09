@@ -16,7 +16,7 @@ Steps:
 
 2. Keep a development journal for your game. It doesn't need to be long or in-depth, but should log the time you spent working on it, and your wins or frustrations during the process. This is also "best practices" and provides helpful tips for yourself when engaging with the project both in the present and future.
 
-3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to playlets on the final week of class.
+3. When you "finish" the game, export it so others can play it (i.e., as an .html file, several printed copies, etc.). We will use these to play test during the final week of class.
 
 ## ONE BUTTON GAME ASSIGNMENT --OR-- TWO COLOR GAME ASSIGNMENT (Due: 11.02.23)
 
