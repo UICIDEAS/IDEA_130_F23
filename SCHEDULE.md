@@ -162,6 +162,18 @@ assignment (due Week 4):
   - Play two or more, saving your journals.
   - We will discuss these games together.
 
+## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
+- Exploration of virtual reality (VR) and augmented reality (AR) in games
+- Impact of artificial intelligence (AI) on game design
+- Ethical considerations in game development and consumption
+- Speculating on the future of game studies and the gaming industry
+
+## Week 15-16 (11.28.23-12.07.23): Building Communities in Video Games
+
+#### Final Game Project (due: November 30th)
+
+  - See "Assignments" for instructions.
+
 ### Week 15: Game Communities
 
 #### GAME/CREATING CODING COMMUNITIES:
@@ -185,16 +197,4 @@ assignment (due Week 4):
 - Whiner Beer (Wizards ands Whiners): https://www.whinerbeer.com/
 - Prism Games: https://www.prismgameschicago.com
 - Tangible Books: https://tangiblebookschicago.com/
-
-#### Final Game Project (due: November 30th)
-
-  - See "Assignments" for instructions.
-
-## Week 13-14 (11.14.23-11.23.23): Emerging Technologies and Future Trends
-- Exploration of virtual reality (VR) and augmented reality (AR) in games
-- Impact of artificial intelligence (AI) on game design
-- Ethical considerations in game development and consumption
-- Speculating on the future of game studies and the gaming industry
-
-## Week 15 (11.28.23-11.30.23): Final Project Play and Playtesting
 
