@@ -162,6 +162,30 @@ assignment (due Week 4):
   - Play two or more, saving your journals.
   - We will discuss these games together.
 
+### Week 15: Game Communities
+
+#### GAME/CREATING CODING COMMUNITIES:
+
+- https://vgagallery.org/
+- https://bitbashchicago.com/
+- https://itch.io/
+- https://borogove.io/ (for Twine games)
+- https://play.date/pulp/ (for Playdate/Pulp games)
+- https://processingfoundation.org/ (general creative coding organization)
+
+#### For IRL gaming:
+
+- https://bitbashchicago.com/
+- https://www.chicagolandgames.com/
+- https://www.meetup.com/chicago-queer-gaming-society/
+
+#### Locations that host RPG events:
+
+- Marz Brewing (Level Eater events): https://marz.beer/
+- Whiner Beer (Wizards ands Whiners): https://www.whinerbeer.com/
+- Prism Games: https://www.prismgameschicago.com
+- Tangible Books: https://tangiblebookschicago.com/
+
 #### Final Game Project (due: November 30th)
 
   - See "Assignments" for instructions.
